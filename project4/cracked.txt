@@ -26,9 +26,9 @@ eliteextraintcat:12345678
 forbonatum:iloveyou  
 crayonfour:666666  
 cutezee:antman  
-25061978:omahardee  
-22081997:ancyprol  
-27071999:dubyabot  
+omahardee:25061978  
+ancyprol:22081997  
+dubyabot:27071999  
 koston7:cacklynet  
 corl3one:runestnam  
 Xytfu71:updateson  
